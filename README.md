@@ -1,6 +1,6 @@
-# flutter_application_3
+# SolarSystemApp
 
-A new Flutter project.
+Układ słoneczny na telefonie.
 
 ## Getting Started
 
